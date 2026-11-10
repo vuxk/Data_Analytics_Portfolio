@@ -47,5 +47,3 @@ The data comes from [source of your dataset] and holds job postings with titles,
 2. Create the tables and load the CSV data.
 3. Run the queries in the `project_sql` folder.
 
-## Conclusion
-[Two or three sentences on what the analysis shows and what you'd do next.]
